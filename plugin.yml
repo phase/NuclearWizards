@@ -1,0 +1,8 @@
+name: NuclearWizards
+main: xyz.jadonfowler.nuclearwizards.NuclearWizards
+version: 0.0.0
+description: Wizards and explosions
+author: https://github.com/phase
+commands:
+   nw:
+      description: The main command
